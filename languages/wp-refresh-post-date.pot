@@ -1,0 +1,129 @@
+# Copyright (C) 2017 WP Refresh Post Date
+# This file is distributed under the same license as the WP Refresh Post Date package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Refresh Post Date 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-refresh-post-"
+"date\n"
+"POT-Creation-Date: 2017-08-18 14:20:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-wp-refresh-post-date-admin.php:64
+msgid "Jamais"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:65
+#: includes/class-wp-refresh-post-date-cron.php:52
+msgid "Toutes les 5 minutes"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:66
+msgid "Une fois par heure"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:67
+msgid "Deux fois par jour"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:68
+msgid "Une fois par jour"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:69
+#: includes/class-wp-refresh-post-date-cron.php:56
+msgid "Une fois par semaine"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:70
+#: includes/class-wp-refresh-post-date-cron.php:60
+msgid "Une fois par mois"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:104
+msgid "Rafraîchir la date automatiquement tous les X jours"
+msgstr ""
+
+#. #-#-#-#-#  wp-refresh-post-date.pot (WP Refresh Post Date 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-wp-refresh-post-date-admin.php:110
+msgid "WP Refresh Post Date"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:118
+msgid "Post Types"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:119
+msgid "Fréquence"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:120
+msgid "Champs"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:127
+msgid "Remonter les posts"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:129
+msgid "Date de création"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:130
+msgid "Date de modification"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:139
+msgid "Réglages WP Refresh Post Date"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:153
+msgid "Sélectionnez les post types concernés par la mise à jour automatique :"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:157
+msgid "Définissez la fréquence de rafraîchissement :"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:161
+msgid "Choisissez les champs à mettre à jour :"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:224
+msgid "Vous avez entré un champ invalide."
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:272
+msgid "Activé:"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:277
+msgid "Prochainement"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:280
+msgctxt "%s = human-readable time difference"
+msgid ""
+"La date de création et de mise à jour sera rafraîchie automatiquement dans %s"
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:286
+msgid "Ce type de post n'est pas configuré pour être rafraîchi."
+msgstr ""
+
+#: admin/class-wp-refresh-post-date-admin.php:292
+msgid "Réglages"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provide UI to schedule post date updates"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laurent Pitteloud"
+msgstr ""
